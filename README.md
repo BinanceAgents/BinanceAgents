@@ -1,6 +1,6 @@
 # Immortal Agents: Create and Evolve Your Own AI Agents
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/ImmortalAgents?style=social)](https://twitter.com/ImmortalAgents)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ImmortalAgents?style=social)](https://twitter.com/ImmortalAgents_)
 
 ## Overview
 
