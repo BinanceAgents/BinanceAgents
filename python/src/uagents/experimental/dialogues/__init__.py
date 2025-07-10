@@ -716,3 +716,5 @@ class Dialogue(Protocol):
             if mark_for_deletion:
                 for session_id in mark_for_deletion:
                     self.cleanup_conversation(session_id)
+
+# Updated: 2025-10-08T19:59:07.068317
