@@ -12,3 +12,4 @@ packages = [{include = "ai_engine", from = "src" }]
 python = ">=3.9,<3.13"
 uagents = "^0.18.0"
 pydantic = "~2.8"
+
