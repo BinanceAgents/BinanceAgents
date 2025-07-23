@@ -37,3 +37,4 @@ Below are the steps to use this integration:
     - Type in 'query' related like `I want to translate a sentence from English to Spanish.`
     - Choose your service and provide asked details.
 
+
