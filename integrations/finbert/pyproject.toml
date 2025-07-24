@@ -8,3 +8,4 @@ authors = ["Sangram Singh"]
 python = ">=3.10,<3.12"
 uagents = "*"
 requests = "^2.31.0"
+
