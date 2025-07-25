@@ -80,3 +80,5 @@ class DialogueMessage(BaseMessage):
         default=None,
         description="The message that the user sent to the agent. Always Ask the user what message they want to send to the agent!",
     )
+
+# Updated: 2025-10-08T19:59:14.888472
