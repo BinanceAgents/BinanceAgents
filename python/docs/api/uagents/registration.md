@@ -68,3 +68,4 @@ async def register(agent_address: str,
 Register the agent on the Almanac contract if registration is about to expire or
 the registration data has changed.
 
+
