@@ -40,3 +40,5 @@ class Availability(models.Model):
     time_start = fields.DatetimeField()
     time_end = fields.DatetimeField()
     min_hourly_price = fields.FloatField(default=0.0)
+
+# Updated: 2025-10-08T19:59:18.022496
