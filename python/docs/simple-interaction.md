@@ -123,3 +123,4 @@ You could also try to add a response from bob to alice, for that you would need 
 message is received and a new message handler for alice to be able to manage and print out bob's message. For a slightly more complex 
 example check out the next section [remote agents](remote-agents.md).
 
+
