@@ -11,3 +11,4 @@ This agent retruns car parking availabiloty at a given location.
 3. Once you are logged in, create a new project by clicking on the "Add a new project" button under the Projects section.
 4. Give your project a name and click "OK" to create the new project.
 5. Your `GEOAPI_API_KEY` will be generated. Copy this key and keep it secure, as it will be used to access Geoapify Projects and other services.
+
