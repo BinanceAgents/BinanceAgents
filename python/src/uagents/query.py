@@ -39,3 +39,5 @@ async def query(
     if isinstance(response, (MsgStatus, Envelope)):
         return response
     raise ValueError("Invalid response received.")
+
+# Updated: 2025-10-08T19:59:23.130588
