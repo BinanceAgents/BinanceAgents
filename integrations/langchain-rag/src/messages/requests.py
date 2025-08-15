@@ -11,3 +11,5 @@ class RagRequest(Model):
         description="Specifies weather all nested pages referenced from the starting URL should be read or not. The value should be yes or no.",
         default="no",
     )
+
+# Updated: 2025-10-08T19:59:23.523283
