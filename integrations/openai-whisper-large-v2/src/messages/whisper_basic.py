@@ -11,3 +11,5 @@ class Error(Model):
 
 class AudioTranscriptResponse(Model):
     transcript: str
+
+# Updated: 2025-10-08T19:59:25.443005
