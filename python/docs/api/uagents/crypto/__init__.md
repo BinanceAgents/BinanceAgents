@@ -119,3 +119,4 @@ def verify_digest(address: str, digest: bytes, signature: str) -> bool
 
 Verify that the signature is correct for the provided signer address and digest.
 
+
