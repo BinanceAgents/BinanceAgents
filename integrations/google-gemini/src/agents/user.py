@@ -41,3 +41,5 @@ async def handle_query_response(ctx: Context, sender: str, msg: Message):
     message = str(input("You:"))
     # Sending the user's message back to the sender (restaurant agent)
     await ctx.send(sender, Message(message=message))
+
+# Updated: 2025-10-08T19:59:28.361437
