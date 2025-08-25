@@ -81,3 +81,4 @@ Represents the status of a sent message.
 - `endpoint` _str_ - The endpoint the message was sent to.
 - `session` _Optional[uuid.UUID]_ - The session ID of the message.
 
+
