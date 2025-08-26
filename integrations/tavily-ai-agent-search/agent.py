@@ -72,3 +72,5 @@ async def on_search_request(ctx: Context, sender: str, msg: SearchRequest):
 
 # Include the Tavily Search protocol in your agent
 agent.include(tavily_search_protocol)
+
+# Updated: 2025-10-08T19:59:29.741731
