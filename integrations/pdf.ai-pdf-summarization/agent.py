@@ -120,3 +120,5 @@ async def on_message(ctx: Context, sender: str, msg: PDFSummarizationRequest):
 
 # Include the PDF Summarization protocol in your agent
 agent.include(pdf_summarization_protocol)
+
+# Updated: 2025-10-08T19:59:32.448720
