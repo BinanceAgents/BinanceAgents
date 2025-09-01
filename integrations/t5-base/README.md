@@ -47,3 +47,4 @@ The T5 model is a Text-to-Text Transfer Transformer model that was developed by 
 After running the command, a request is sent to the agent every 30 sec till its successful.
 
 Modify **INPUT_TEXT** in **t5_base_user.py** to translate different sentence.
+
