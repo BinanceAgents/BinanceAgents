@@ -36,3 +36,4 @@ python main.py
 ```
 
 Now you have the agents up and running to perform gemini integrations using the provided APIs. Happy integrating! 🎉
+
