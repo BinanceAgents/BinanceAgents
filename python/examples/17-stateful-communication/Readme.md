@@ -30,3 +30,4 @@ Agent 1 and 2 make use of an implementation of the ChitChat Dialogue in which ea
 #### Predefined Dialogue (Agent 3 & 4)
 
 Agent 3 and 4 are given a graph of the same ChitChat Dialogue but most of the interactions are automated and not exposed to the user. Only one interaction to start the dialogue and the cyclic ChitChat message is required to use the graph.
+
