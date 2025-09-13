@@ -47,3 +47,4 @@ Whisper is a pre-trained model for automatic speech recognition (ASR) and speech
 After running the command, a request is sent to the agent every 30 sec till its successful.
     
 You can change the RECORDING_FILE variable to transcript your own audio file.
+
