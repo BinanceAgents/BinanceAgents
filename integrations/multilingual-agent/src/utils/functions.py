@@ -91,3 +91,5 @@ def summarize_transcript(text: list, chunk_size: int = 1000, chunk_overlap: int 
     return summarized_text
 
 # Updated: 2025-10-08T19:59:12.855007
+
+# Updated: 2025-10-08T20:10:22.137480
