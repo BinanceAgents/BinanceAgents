@@ -12,3 +12,4 @@ When an agent’s information times out, queries for that agent will no longer r
 With each registration, the agent will need to prove ownership of 
 the [agent address](addresses.md) by signing a sequence number with their μAgent private key and submitting the 
 signature for verification on the contract. This sequence number should increment with each successful registration and should also be queryable. This will be performed automatically.
+
