@@ -288,3 +288,4 @@ Compute the digest of a given manifest.
 
 - `str` - The computed digest.
 
+
