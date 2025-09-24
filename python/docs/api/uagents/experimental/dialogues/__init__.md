@@ -406,3 +406,4 @@ Sessions with 0 as timeout will never be deleted.
 - setting the interval above 1 will act as a multiplier
 - setting it to 0 will disable the cleanup task
 
+
