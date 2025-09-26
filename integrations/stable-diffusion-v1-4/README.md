@@ -70,3 +70,4 @@ Wish to tailor your request? Navigate to `src/stable_diffusion_user.py` and twea
 Your freshly minted images reside in the `generated-image` folder. Named with a timestamp, for instance: **2023-09-03 11:00:59.jpeg**.
 
 Dive in and conjure some mesmerizing visuals!
+
