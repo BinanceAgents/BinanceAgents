@@ -33,3 +33,4 @@ To use this Python script/get_github_repositories for your integration, you need
 2. Type in a query related to fetching repositories, like `I want to get a list of Github Repositories in my organisation`.
 3. Choose your function and provide the asked details.
 
+
