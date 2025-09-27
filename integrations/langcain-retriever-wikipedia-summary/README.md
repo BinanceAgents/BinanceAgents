@@ -71,3 +71,4 @@ You can now send Wikipedia queries through DeltaV's interface, and the agent wil
 ## Support
 
 For support or more information about Agentverse and DeltaV integration, refer to the official [documentation](https://fetch.ai/docs).
+
