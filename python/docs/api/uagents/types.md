@@ -82,3 +82,4 @@ Represents the status of a sent message.
 - `session` _Optional[uuid.UUID]_ - The session ID of the message.
 
 
+
