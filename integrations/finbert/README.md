@@ -51,3 +51,4 @@ Copy the {agent_address} address and replace **AI_MODEL_AGENT_ADDRESS** value in
 You can change the input text to what you like, just open the src/finbert_user.py file, and change the value of **INPUT_TEXT** variable in agents/finbert_user.py.
 
 The finbert model will give softmax outputs for three labels: positive, negative or neutral.
+
