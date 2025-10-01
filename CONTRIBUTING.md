@@ -164,3 +164,4 @@ When merging a branch, PRs should be squashed into one conventional commit by se
 
 See [Merge strategies](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/about-pull-request-merges#squash-and-merge-your-commits) from the official GitHub documentation.
 
+
