@@ -71,3 +71,4 @@ The protocol supports only one standardised endpoint:
 
 and expects data which is broadly JSON compatible. The protocol currently supports MIME content type `application/json`.
 
+
