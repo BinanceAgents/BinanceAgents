@@ -60,3 +60,4 @@ Further details on `conventional commits` can be found here: <https://www.conven
 
 Support and extra information is available in our [documentation](https://fetch.ai/docs) and on [Discord](https://discord.com/invite/fetchai)
 
+
