@@ -32,3 +32,5 @@ class BookingRequest(Model):
     user_response: str
     user_email: str
     user_full_name: str
+
+# Updated: 2025-10-08T19:59:45.804648
