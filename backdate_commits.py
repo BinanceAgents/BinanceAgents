@@ -24,7 +24,7 @@ def get_all_files(repo_path):
     
     return files
 
-def generate_random_dates(count, days_back=90):
+def generate_random_dates(count, days_back=30):
     """Generate random dates within the last specified days"""
     now = datetime.now()
     dates = []
@@ -130,12 +130,12 @@ def main():
         return
     
     # Generate random dates
-    dates = generate_random_dates(len(files), days_back=90)
+    dates = generate_random_dates(len(files), days_back=30)
     
     # Shuffle files for random order
     random.shuffle(files)
     
-    print(f"\nThis will create {len(files)} commits spread across the last 3 months.")
+    print(f"\nThis will create {len(files)} commits spread across the last month.")
     confirm = input("Do you want to proceed? (yes/no): ").strip().lower()
     
     if confirm != 'yes':
@@ -174,4 +174,4 @@ def main():
 if __name__ == "__main__":
     main()
 
-# Updated: 2025-10-08T19:59:22.047036
+# Updated: 2025-10-08T20:10:47.180152
