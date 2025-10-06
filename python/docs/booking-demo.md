@@ -178,3 +178,4 @@ You should see this printed on the user terminal:
 See the full example scripts at [restaurant](https://github.com/fetchai/uAgents/blob/main/python/examples/09-booking-protocol-demo/restaurant.py) and 
 [user](https://github.com/fetchai/uAgents/blob/main/python/examples/09-booking-protocol-demo/user.py).
 
+
