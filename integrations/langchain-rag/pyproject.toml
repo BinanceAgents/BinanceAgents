@@ -20,3 +20,4 @@ unstructured = "^0.16.5"
 langchain-community = "^0.3.7"
 langchain-cohere = "^0.3.2"
 
+
