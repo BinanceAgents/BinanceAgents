@@ -180,3 +180,4 @@ async def handle_message(ctx: Context, sender: str, msg: Message):
 
 Next, copy bob's address and paste it into alice's code under `RECIPIENT_ADDRESS`. Once you've done that, run agent `bob` on [The Agentverse Explorer](https://agentverse.ai/) followed by your local agent `alice`. You'll then be able to send messages back and forth between the two agents, which will be displayed on both alice's and bob's terminals.
 
+
