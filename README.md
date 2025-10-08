@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Binance Agents** is a next-generation simulation platform that allows users to create, customize, and evolve realistic digital versions of **Changpeng Zhao (CZ)** — each with their own personalities, decision-making styles, and philosophies.
+**Binance Agents** is a next-generation simulation platform that allows users to create, customize, and evolve realistic digital versions of **Changpeng Zhao (CZ)** — each with their own personalities, decision-making styles, and philosophies. 
 
 Designed for developers, researchers, and crypto enthusiasts, **Binance Agents** provides the tools to model different CZ archetypes and observe how they might react to market events, regulatory changes, or internal Binance operations — all within a realistic, data-driven environment.
 
