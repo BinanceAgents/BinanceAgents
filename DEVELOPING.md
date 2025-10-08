@@ -10,18 +10,19 @@
 
 <!-- markdown-link-check-disable -->
 
-1. Fork the [repository](https://github.com/fetchai/uAgents.git).
+1. Fork the [repository](https://github.com/BinanceAgents/BinanceAgents.git).
 2. Clone your fork of the repository:
     <!-- markdown-link-check-enable -->
 
    ```shell
-   git clone https://github.com/fetchai/uAgents.git
-   ```
+   git clone https://github.com/BinanceAgents/BinanceAgents.git
+
 
 3. Define an `upstream` remote pointing back to the main uAgents repository:
 
    ```shell
-   git remote add upstream https://github.com/fetchai/uAgents.git
+   git remote add upstream https://github.com/BinanceAgents/BinanceAgents.git
+
    ```
 
 ## <a name="setup"></a> Setting up a New Development Environment
