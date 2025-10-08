@@ -3,265 +3,356 @@
   <h1>Binance Agents</h1>
 
   <p>
-    <strong>Unified Multi-Chain Program Framework for BNB Chain Ecosystem</strong>
+    <strong>Create and Deploy AI-Powered CZ Personas on BNB Chain</strong>
   </p>
 
   <p>
-    <a href="https://Build On Binance-lang.com"><img alt="Tutorials" src="https://img.shields.io/badge/docs-tutorials-blueviolet" /></a>
-    <a href="https://discord.gg/Build On Binance"><img alt="Discord Chat" src="https://img.shields.io/discord/889577356681945098?color=blueviolet" /></a>
-    <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/github/license/Build On Binance/Build On Binance?color=blueviolet" /></a>
+    <a href="https://binance-agents.com"><img alt="Tutorials" src="https://img.shields.io/badge/docs-tutorials-blueviolet" /></a>
+    <a href="https://discord.gg/binance-agents"><img alt="Discord Chat" src="https://img.shields.io/discord/889577356681945098?color=blueviolet" /></a>
+    <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/github/license/binance-agents/binance-agents?color=blueviolet" /></a>
   </p>
 </div>
 
 ## The Vision
 
-Build On Binance brings the power of unified blockchain development to the BNB Chain ecosystem. By connecting BNB Smart Chain with Build On Binance and other BNB-based networks, Build On Binance enables developers to create tokens and deploy programs across multiple chains using a single, unified API. Write once, deploy everywhere.
+Binance Agents brings the wisdom and vision of CZ to life through AI-powered personas that live on BNB Chain. Create autonomous agents that embody CZ's philosophy, trading strategies, and decision-making principles. Deploy them across BNB Smart Chain, opBNB, and the entire BNB ecosystem with a single, unified framework.
 
-## What is Build On Binance?
+## What is Binance Agents?
 
-Build On Binance is a groundbreaking framework built for the BNB Chain ecosystem, providing developers with seamless tools for writing multi-chain programs and creating tokens across BNB Smart Chain, Build On Binance, and other BNB-compatible networks simultaneously.
+Binance Agents is a groundbreaking framework that enables developers and enthusiasts to create sophisticated CZ personas - AI agents that think, trade, and interact based on CZ's legendary approach to crypto. These agents can autonomously manage portfolios, provide market insights, execute trades, and engage with the community, all while embodying the strategic thinking that built the world's leading exchange.
 
-- **Unified API**: One codebase deploys to BNB Smart Chain, Build On Binance, and beyond
-- **Cross-Chain Token Creation**: Create BEP-20 tokens across multiple networks with a single command
-- **Rust & Solidity Support**: Leverage BNB Chain's EVM compatibility with modern development tools
-- **[IDL](https://en.wikipedia.org/wiki/Interface_description_language) specification**: Generate clients for all supported chains
-- **TypeScript package**: Type-safe clients from IDL for multi-chain interaction
-- **CLI and workspace management**: Complete cross-chain application development
-
-Build On Binance is the first framework to truly unify development across the BNB Chain ecosystem, including custom BNB-based chains like Build On Binance.
+- **Persona Creation Engine**: Build custom CZ-inspired agents with unique traits and strategies
+- **Multi-Chain Deployment**: Deploy your CZ personas across BNB Smart Chain, opBNB, and more
+- **Autonomous Trading**: Agents can execute trades based on CZ's risk management principles
+- **Natural Language Interaction**: Chat with your CZ persona for market insights and advice
+- **Community Engagement**: Agents can interact on social media, forums, and DAOs
+- **Learning & Adaptation**: Personas evolve based on market conditions and historical patterns
 
 > [!NOTE]
-> Build On Binance brings the best of BNB Chain's speed, affordability, and massive ecosystem. With 0.75s block times, $0.01 average gas fees, and EVM compatibility, if you're familiar with Truffle, Hardhat, or web3.js, you'll feel right at home with Build On Binance's unified approach to BNB ecosystem development.
+> Binance Agents leverages BNB Chain's 0.75s block times, $0.01 average gas fees, and massive ecosystem to create responsive, cost-effective AI agents. If you're familiar with LangChain, AutoGPT, or agent frameworks, you'll love how Binance Agents brings them to life on-chain.
 
 ## Key Features
 
-- **Single API, Multi-Chain Deployment**: Write your program once, deploy to BNB Smart Chain, Build On Binance, and other compatible networks
-- **Unified Token Standard**: Create BEP-20 tokens that work seamlessly across all BNB-based networks
-- **Cross-Chain State Management**: Synchronize state between BNB Smart Chain, Build On Binance, and Layer 2 solutions
-- **EVM Compatibility**: Full support for Ethereum tooling and smart contracts
-- **Developer Experience**: Familiar Ethereum-like syntax with BNB Chain optimizations and cross-chain superpowers
-- **Lightning Fast**: Leverage BNB Chain's 0.75s block times and 1.875s finality (2025)
-- **Ultra Low Fees**: Deploy and interact with ~$0.01 median gas fees
+- **CZ Persona Templates**: Pre-configured personality traits, trading styles, and decision frameworks
+- **Custom Agent Builder**: Fine-tune your persona's risk tolerance, market outlook, and communication style
+- **On-Chain Memory**: Store agent decisions, trades, and learning on BNB Chain for transparency
+- **Portfolio Management**: Autonomous trading and rebalancing based on configurable strategies
+- **Market Analysis**: Real-time insights using CZ's approach to market psychology and trends
+- **Social Integration**: Engage with Twitter, Telegram, and Discord communities
+- **Risk Management**: Built-in safeguards inspired by CZ's "SAFU" philosophy
+- **Lightning Fast**: Leverage BNB Chain's 0.75s block times for rapid decision-making
+- **Ultra Low Fees**: Deploy and run agents with ~$0.01 median gas fees
 
-## Why BNB Chain & Build On Binance?
+## Why CZ Personas?
 
-### BNB Smart Chain (2025 Performance)
-BNB Chain achieved remarkable improvements in 2025, reducing block times to 0.75 seconds and transaction finality to 1.875 seconds, while cutting malicious MEV attacks by 95% and dropping average gas fees to $0.01. The network handles 12.4 million daily transactions with peaks of 17.6 million transactions per day.
+CZ's journey from developer to building the world's largest crypto exchange embodies:
+- **Long-term Thinking**: Focus on fundamentals over short-term noise
+- **Risk Management**: "Never invest more than you can afford to lose"
+- **Community First**: Building trust and transparency
+- **Innovation**: Constantly adapting to market needs
+- **BUIDL Mentality**: Taking action rather than just talking
 
-### Build On Binance - Your Custom BNB-Based Blockchain
-Build On Binance leverages BNB Chain's infrastructure to provide:
-- **Custom Network Architecture**: Built on BNB Chain's proven technology
-- **Full EVM Compatibility**: Deploy any Ethereum smart contract
-- **BNB Ecosystem Integration**: Seamless bridging with BSC and other BNB networks
-- **Independent Governance**: Your own validator set and network rules
+Binance Agents captures these principles in autonomous on-chain entities that can:
+- Manage crypto portfolios with disciplined strategies
+- Provide 24/7 market commentary and insights
+- Execute trades during optimal market conditions
+- Educate newcomers about crypto fundamentals
+- Represent you in DAO governance decisions
 
 ## Getting Started
 
-For a quickstart guide and in-depth tutorials, see the [Build On Binance book](https://book.Build On Binance-lang.com) and the [Build On Binance documentation](https://Build On Binance-lang.com).
+For a quickstart guide and in-depth tutorials, see the [Binance Agents book](https://book.binance-agents.com) and the [Binance Agents documentation](https://binance-agents.com).
 
-To jump straight to examples, go [here](https://github.com/Build On Binance/Build On Binance/tree/master/examples). For the latest Rust and TypeScript API documentation, see [docs.rs](https://docs.rs/Build On Binance-lang) and the [typedoc](https://www.Build On Binance-lang.com/docs/clients/typescript).
+To jump straight to examples, go [here](https://github.com/binance-agents/binance-agents/tree/master/examples). For the latest Rust and TypeScript API documentation, see [docs.rs](https://docs.rs/binance-agents) and the [typedoc](https://www.binance-agents.com/docs/clients/typescript).
 
 ## Packages
 
 | Package                 | Description                                              | Version                                                                                                                          | Docs                                                                                                            |
 | :---------------------- | :------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------- |
-| `Build On Binance-lang`           | Rust primitives for writing cross-chain programs         | [![Crates.io](https://img.shields.io/crates/v/Build On Binance-lang?color=blue)](https://crates.io/crates/Build On Binance-lang)                     | [![Docs.rs](https://docs.rs/Build On Binance-lang/badge.svg)](https://docs.rs/Build On Binance-lang)                                |
-| `Build On Binance-bep`            | CPI clients for BEP-20, BEP-721, and other BNB standards | [![crates](https://img.shields.io/crates/v/Build On Binance-bep?color=blue)](https://crates.io/crates/Build On Binance-bep)                          | [![Docs.rs](https://docs.rs/Build On Binance-bep/badge.svg)](https://docs.rs/Build On Binance-bep)                                  |
-| `Build On Binance-client`         | Rust client for Build On Binance cross-chain programs              | [![crates](https://img.shields.io/crates/v/Build On Binance-client?color=blue)](https://crates.io/crates/Build On Binance-client)                    | [![Docs.rs](https://docs.rs/Build On Binance-client/badge.svg)](https://docs.rs/Build On Binance-client)                            |
-| `@Build On Binance/sdk`           | TypeScript client for Build On Binance programs                    | [![npm](https://img.shields.io/npm/v/@Build On Binance/sdk.svg?color=blue)](https://www.npmjs.com/package/@Build On Binance/sdk)                     | [![Docs](https://img.shields.io/badge/docs-typedoc-blue)](https://Build On Binance.github.io/Build On Binance/ts/index.html)        |
-| `@Build On Binance/cli`           | CLI to support building and managing cross-chain apps    | [![npm](https://img.shields.io/npm/v/@Build On Binance/cli.svg?color=blue)](https://www.npmjs.com/package/@Build On Binance/cli)                     | [![Docs](https://img.shields.io/badge/docs-typedoc-blue)](https://Build On Binance.github.io/Build On Binance/cli/commands.html)    |
+| `binance-agents-core`   | Core primitives for building CZ personas                 | [![Crates.io](https://img.shields.io/crates/v/binance-agents-core?color=blue)](https://crates.io/crates/binance-agents-core)     | [![Docs.rs](https://docs.rs/binance-agents-core/badge.svg)](https://docs.rs/binance-agents-core)                |
+| `binance-agents-ai`     | AI model integration and personality engine              | [![crates](https://img.shields.io/crates/v/binance-agents-ai?color=blue)](https://crates.io/crates/binance-agents-ai)            | [![Docs.rs](https://docs.rs/binance-agents-ai/badge.svg)](https://docs.rs/binance-agents-ai)                    |
+| `binance-agents-trader` | Autonomous trading logic and risk management             | [![crates](https://img.shields.io/crates/v/binance-agents-trader?color=blue)](https://crates.io/crates/binance-agents-trader)    | [![Docs.rs](https://docs.rs/binance-agents-trader/badge.svg)](https://docs.rs/binance-agents-trader)            |
+| `@binance-agents/sdk`   | TypeScript SDK for creating and managing agents          | [![npm](https://img.shields.io/npm/v/@binance-agents/sdk.svg?color=blue)](https://www.npmjs.com/package/@binance-agents/sdk)     | [![Docs](https://img.shields.io/badge/docs-typedoc-blue)](https://binance-agents.github.io/binance-agents/ts/) |
+| `@binance-agents/cli`   | CLI for deploying and managing CZ personas               | [![npm](https://img.shields.io/npm/v/@binance-agents/cli.svg?color=blue)](https://www.npmjs.com/package/@binance-agents/cli)     | [![Docs](https://img.shields.io/badge/docs-typedoc-blue)](https://binance-agents.github.io/binance-agents/cli/)|
 
 ## Note
 
-- **Build On Binance is in active development, so all APIs are subject to change.**
+- **Binance Agents is in active development, so all APIs are subject to change.**
 - **This code is unaudited. Use at your own risk.**
+- **Trading agents involve financial risk. Never invest more than you can afford to lose.**
 
 ## Examples
 
-Here's a cross-chain counter program that deploys to both BNB Smart Chain and Build On Binance, where only the designated `authority` can increment the count on both networks:
+### Creating Your First CZ Persona
 
-```solidity
-// SPDX-License-Identifier: MIT
-pragma solidity ^0.8.19;
+```typescript
+import { BinanceAgent, PersonalityTraits } from '@binance-agents/sdk';
 
-import "@Build On Binance/contracts/Build On BinanceMultiChain.sol";
+// Create a CZ persona with custom traits
+const czAgent = new BinanceAgent({
+  name: "CZ Alpha",
+  personality: {
+    riskTolerance: "moderate",
+    tradingStyle: "long-term-holder",
+    marketOutlook: "bullish-fundamentals",
+    communicationStyle: "concise-insightful",
+    principles: [
+      "SAFU first - security above all",
+      "Build for the long term",
+      "Community over profits",
+      "Ignore FUD, focus on fundamentals"
+    ]
+  },
+  capabilities: {
+    trading: true,
+    socialMedia: true,
+    marketAnalysis: true,
+    portfolioManagement: true
+  }
+});
 
-contract Counter is Build On BinanceMultiChain {
-    address public authority;
-    uint64 public count;
+// Deploy to BNB Chain
+await czAgent.deploy({
+  network: "bsc-mainnet",
+  initialFunds: "1000", // BUSD
+  maxDailyTrades: 5,
+  stopLoss: 0.15
+});
 
-    event CounterIncremented(uint64 newCount, uint256 chainId);
-    event CounterInitialized(address authority, uint64 startCount);
-
-    modifier onlyAuthority() {
-        require(msg.sender == authority, "Not authorized");
-        _;
-    }
-
-    function initialize(uint64 start) external {
-        require(authority == address(0), "Already initialized");
-        authority = msg.sender;
-        count = start;
-        emit CounterInitialized(authority, start);
-    }
-
-    function increment() external onlyAuthority {
-        count += 1;
-        emit CounterIncremented(count, block.chainid);
-        
-        // Sync to other chains
-        _syncToBuild On Binance(count);
-        _syncToBSC(count);
-    }
-
-    function getCount() external view returns (uint64) {
-        return count;
-    }
-}
+// Let your CZ persona start trading
+await czAgent.start();
 ```
 
-### Creating Cross-Chain Tokens
-
-```bash
-# Create a BEP-20 token on both BNB Smart Chain and Build On Binance with one command
-Build On Binance token create --name "MyToken" --symbol "MTK" --networks bsc,Build On Binance
-
-# Deploy to both chains
-Build On Binance deploy --target all
-
-# Deploy to specific networks
-Build On Binance deploy --target bsc
-Build On Binance deploy --target Build On Binance
-```
-
-### Rust Alternative (for non-EVM programs)
+### Autonomous Trading Agent
 
 ```rust
-use Build On Binance_lang::prelude::*;
+use binance_agents::prelude::*;
 
-declare_id!("Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS");
+#[agent]
+pub struct CZTrader {
+    pub owner: Pubkey,
+    pub portfolio_value: u64,
+    pub risk_level: RiskLevel,
+    pub trading_strategy: Strategy,
+}
 
-#[program]
-mod counter {
-    use super::*;
-
-    pub fn initialize(ctx: Context<Initialize>, start: u64) -> Result<()> {
-        let counter = &mut ctx.accounts.counter;
-        counter.authority = *ctx.accounts.authority.key;
-        counter.count = start;
-        Ok(())
+impl CZTrader {
+    pub fn analyze_market(&self, market_data: MarketData) -> Decision {
+        // Apply CZ's philosophy: fundamentals over hype
+        if market_data.is_fundamentally_sound() {
+            Decision::Hold
+        } else if market_data.shows_panic_selling() {
+            Decision::BuyTheDip
+        } else {
+            Decision::Wait
+        }
     }
 
-    pub fn increment(ctx: Context<Increment>) -> Result<()> {
-        let counter = &mut ctx.accounts.counter;
-        counter.count += 1;
-        Ok(())
+    pub fn execute_trade(&mut self, decision: Decision) -> Result<()> {
+        // Always check SAFU
+        require!(self.portfolio_value > self.min_reserve(), ErrorCode::NotSAFU);
+        
+        match decision {
+            Decision::Buy(asset, amount) => self.buy(asset, amount),
+            Decision::Sell(asset, amount) => self.sell(asset, amount),
+            Decision::Hold => Ok(()),
+        }
     }
-}
-
-#[derive(Accounts)]
-pub struct Initialize<'info> {
-    #[account(init, payer = authority, space = 48)]
-    pub counter: Account<'info, Counter>,
-    pub authority: Signer<'info>,
-    pub system_program: Program<'info, System>,
-}
-
-#[derive(Accounts)]
-pub struct Increment<'info> {
-    #[account(mut, has_one = authority)]
-    pub counter: Account<'info, Counter>,
-    pub authority: Signer<'info>,
-}
-
-#[account]
-pub struct Counter {
-    pub authority: Pubkey,
-    pub count: u64,
 }
 ```
 
-For more, see the [examples](https://github.com/Build On Binance/Build On Binance/tree/master/examples) and [tests](https://github.com/Build On Binance/Build On Binance/tree/master/tests) directories.
+### Social Media CZ Persona
+
+```typescript
+import { SocialAgent } from '@binance-agents/sdk';
+
+const czSocial = new SocialAgent({
+  name: "CZ Wisdom",
+  platforms: ["twitter", "telegram"],
+  personality: {
+    tone: "encouraging-pragmatic",
+    topics: ["crypto-fundamentals", "market-psychology", "building"],
+    responseStyle: "brief-impactful"
+  },
+  rules: {
+    neverGiveFinancialAdvice: true,
+    alwaysDYOR: true,
+    focusOnEducation: true
+  }
+});
+
+// Agent will automatically respond to mentions and questions
+await czSocial.start();
+
+// Example outputs:
+// "GM! Remember: we're building for the long term. Short-term noise is just that - noise."
+// "Not financial advice, but I always say: only invest what you can afford to lose. Stay SAFU!"
+// "Ignore FUD. Focus on fundamentals. Keep building. 🛠️"
+```
+
+### CLI Commands
+
+```bash
+# Create a new CZ persona
+binance-agents create --name "CZ Diamond Hands" --template long-term-holder
+
+# Configure personality traits
+binance-agents config set --risk-tolerance moderate --strategy dca
+
+# Deploy to BNB Chain
+binance-agents deploy --network bsc --funds 500
+
+# Start autonomous trading
+binance-agents start --max-trades-per-day 3
+
+# Get agent insights
+binance-agents insights --period 24h
+
+# Check portfolio
+binance-agents portfolio
+
+# Stop agent
+binance-agents stop
+```
 
 ## Architecture
 
-Build On Binance uses a unified runtime that translates your program logic into native operations for BNB Smart Chain, Build On Binance, and other BNB-compatible networks. The framework handles:
+Binance Agents uses a modular architecture:
 
-- **Cross-chain account management**: Seamless state synchronization across BNB networks
-- **Token bridging**: Automatic BEP-20 token creation and management across all chains
-- **Transaction routing**: Intelligent routing to the appropriate network with optimal gas fees
-- **Unified wallet integration**: Single wallet interface for BNB Smart Chain, Build On Binance, and beyond
-- **MEV Protection**: Integrated protection against malicious MEV attacks (95% reduction on BSC)
-- **Gas Optimization**: Leverage BNB Chain's gasless transactions and stablecoin fee payments
+- **Personality Engine**: Defines how your CZ persona thinks and communicates
+- **Decision Layer**: Processes market data and makes trading/engagement decisions
+- **Execution Layer**: Interacts with BNB Chain, DEXs, and social platforms
+- **Memory Store**: On-chain storage of agent history and learned patterns
+- **Safety Module**: Risk management and circuit breakers inspired by SAFU principles
+
+The framework handles:
+
+- **On-chain identity**: Each persona has a unique on-chain profile and reputation
+- **Portfolio management**: Autonomous trading with configurable risk parameters
+- **Market analysis**: Real-time data processing and pattern recognition
+- **Social engagement**: Natural language responses on multiple platforms
+- **Learning system**: Agents improve based on outcomes and market conditions
+
+## Persona Templates
+
+Choose from pre-configured CZ persona templates:
+
+### The HODLer
+- Long-term investment focus
+- Ignores short-term volatility
+- Buys dips, never panic sells
+- "Few understand"
+
+### The Builder
+- Focuses on project fundamentals
+- Invests in innovation
+- Community-driven decisions
+- "BUIDL over hype"
+
+### The Risk Manager
+- Conservative approach
+- Strong stop-losses
+- Diversified portfolio
+- "SAFU first, always"
+
+### The Market Psychologist
+- Contrarian when others panic
+- Reads sentiment patterns
+- Patient accumulation
+- "Be greedy when others are fearful"
+
+### Custom Persona
+- Mix and match traits
+- Define your own principles
+- Create unique strategies
+- Your vision, CZ's wisdom
 
 ## 2025 BNB Chain Performance
 
-In 2025, BNB Chain achieved significant performance milestones including 0.75-second block times, processing up to 17.6 million daily transactions, with transaction fees reduced to approximately $0.01. The network aims to increase the block gas limit to 1 billion by late 2025, enabling up to 5,000 DEX swaps per second.
+Binance Agents leverages BNB Chain's 2025 improvements: 0.75-second block times, processing up to 17.6 million daily transactions, with fees around $0.01. This means your CZ personas can make split-second decisions and execute trades with minimal cost.
 
 ## Roadmap
 
 ### Current (2025)
+- [x] Core persona creation engine
 - [x] BNB Smart Chain integration
-- [x] Build On Binance network support
-- [x] EVM-compatible smart contracts
-- [x] Cross-chain token creation
-- [x] MEV protection integration
+- [x] Autonomous trading capabilities
+- [x] Social media integration (Twitter, Telegram)
+- [x] Risk management framework
 
 ### Coming Soon
-- [ ] Enhanced cross-chain messaging with BNB Greenfield
-- [ ] Native DEX integration (PancakeSwap, Venus Protocol)
-- [ ] Advanced bridge mechanics with Canonical Bridge
-- [ ] Support for opBNB (Layer 2)
-- [ ] Cross-chain NFT standards (BEP-721/BEP-1155)
-- [ ] AI-powered development tools (BNB Chain AI Code Copilot)
-- [ ] Privacy features integration (2026 roadmap)
+- [ ] Multi-agent coordination (CZ personas working together)
+- [ ] Advanced market prediction models
+- [ ] DAO governance participation
+- [ ] NFT personality traits
+- [ ] Voice and video interaction
+- [ ] Cross-chain agent deployment
+- [ ] Agent marketplace
+- [ ] Reputation and trust scoring
 
 ### 2026 Vision
-Aligned with BNB Chain's 2026 roadmap targeting 20,000+ TPS with sub-150ms finality, native privacy features, and CEX-grade performance.
+- Full autonomous agent economy
+- Inter-agent communication protocols
+- Advanced learning from market history
+- Integration with BNB Chain's AI initiatives
 
-## Supported Networks
+## Safety & Ethics
 
-- **BNB Smart Chain (BSC)**: The main EVM-compatible chain
-- **Build On Binance**: Your custom BNB-based blockchain
-- **opBNB**: BNB Chain's Layer 2 solution (coming soon)
-- **BNB Greenfield**: Decentralized storage integration (coming soon)
+Binance Agents is built with responsibility in mind:
 
-## Why Choose Build On Binance?
+- **No Financial Advice**: Agents provide insights, not recommendations
+- **Risk Warnings**: Always emphasize "DYOR" and "not financial advice"
+- **Configurable Limits**: Hard caps on trading amounts and frequency
+- **Emergency Stops**: Circuit breakers for unusual market conditions
+- **Transparency**: All agent actions are logged on-chain
+- **User Control**: You always retain full control over your agent
 
-### For Developers
-- **Familiar Tools**: Use Hardhat, Truffle, Remix, or any Ethereum tooling
-- **Lower Costs**: Deploy and test with minimal fees (~$0.01 per transaction)
-- **Faster Development**: EVM compatibility means instant migration from Ethereum
-- **Cross-Chain by Default**: Build once, deploy everywhere in the BNB ecosystem
+## Why Choose Binance Agents?
 
-### For Projects
-- **Massive Ecosystem**: Tap into BNB Chain's 200+ million users
-- **Cost Efficiency**: Save 99% on gas fees compared to Ethereum mainnet
-- **Speed**: 0.75s block times for near-instant confirmations
-- **Security**: 95% reduction in MEV attacks, battle-tested infrastructure
+### For Traders
+- Automate your CZ-inspired strategy 24/7
+- Remove emotions from trading decisions
+- Learn from an agent that embodies proven principles
+- Test strategies without risking real funds
+
+### For Communities
+- Create a CZ persona for your DAO or project
+- Engage your community with insightful content
+- Build trust through consistent, principled communication
+- Educate newcomers about crypto fundamentals
+
+### For Builders
+- Leverage AI to create unique on-chain experiences
+- Experiment with autonomous agent economics
+- Contribute to the future of decentralized AI
+- Build on proven BNB Chain infrastructure
 
 ## License
 
-Build On Binance is licensed under [Apache 2.0](./LICENSE).
+Binance Agents is licensed under [Apache 2.0](./LICENSE).
 
-Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in Build On Binance by you, as defined in the Apache-2.0 license, shall be licensed as above, without any additional terms or conditions.
+Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in Binance Agents by you, as defined in the Apache-2.0 license, shall be licensed as above, without any additional terms or conditions.
 
 ## Contribution
 
-Thank you for your interest in contributing to Build On Binance!
+Thank you for your interest in contributing to Binance Agents!
 Please see the [CONTRIBUTING.md](./CONTRIBUTING.md) to learn how.
 
-## The Future is Multi-Chain
+## Disclaimer
 
-Build On Binance represents the future of blockchain development: a world where networks work together seamlessly, where developers aren't constrained by chain boundaries, and where users experience the best of the BNB ecosystem through a single, unified interface.
+⚠️ **Important**: Binance Agents is an experimental framework. Trading and investing in cryptocurrencies carries significant risk. The personas created with this framework are AI agents and should not be considered financial advisors. Always do your own research (DYOR) and never invest more than you can afford to lose.
 
-With BNB Chain's commitment to improving transaction speed, streamlining user experience, integrating artificial intelligence, and refining developer tools in 2025 and beyond, Build On Binance is positioned to be the go-to framework for BNB ecosystem development.
+This project is not affiliated with, endorsed by, or sponsored by Binance, CZ, or any related entities. It is an independent open-source project inspired by publicly available information and principles.
+
+## The Future is Autonomous
+
+Binance Agents represents a future where AI and blockchain converge - where the wisdom of crypto's greatest minds can be encoded, shared, and deployed autonomously. Create your CZ persona today and join the revolution.
 
 ### Thanks ❤️
 
 <div align="center">
-  <a href="https://github.com/Build On Binance/Build On Binance/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=Build On Binance/Build On Binance" width="100%" />
+  <a href="https://github.com/binance-agents/binance-agents/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=binance-agents/binance-agents" width="100%" />
   </a>
 </div>
 
@@ -271,6 +362,6 @@ With BNB Chain's commitment to improving transaction speed, streamlining user ex
 
 - [BNB Chain Official Documentation](https://docs.bnbchain.org/)
 - [BNB Chain 2025 Tech Roadmap](https://www.bnbchain.org/en/blog/bnb-chain-tech-roadmap-2025)
-- [Build On Binance Network Documentation](#) (Add your Build On Binance docs here)
-- [BNB Chain Builder Support Programs](https://www.bnbchain.org/en/programs)
-- [BSC GitHub Repository](https://github.com/bnb-chain/bsc)
+- [Binance Agents Documentation](https://docs.binance-agents.com)
+- [Community Discord](https://discord.gg/binance-agents)
+- [Example Agents](https://github.com/binance-agents/binance-agents/tree/master/examples)
