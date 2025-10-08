@@ -60,16 +60,6 @@ For a quickstart guide and in-depth tutorials, see the [Binance Agents book](htt
 
 To jump straight to examples, go [here](https://github.com/binance-agents/binance-agents/tree/master/examples). For the latest Rust and TypeScript API documentation, see [docs.rs](https://docs.rs/binance-agents) and the [typedoc](https://www.binance-agents.com/docs/clients/typescript).
 
-## Packages
-
-| Package                 | Description                                              | Version                                                                                                                          | Docs                                                                                                            |
-| :---------------------- | :------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------- |
-| `binance-agents-core`   | Core primitives for building CZ personas                 | [![Crates.io](https://img.shields.io/crates/v/binance-agents-core?color=blue)](https://crates.io/crates/binance-agents-core)     | [![Docs.rs](https://docs.rs/binance-agents-core/badge.svg)](https://docs.rs/binance-agents-core)                |
-| `binance-agents-ai`     | AI model integration and personality engine              | [![crates](https://img.shields.io/crates/v/binance-agents-ai?color=blue)](https://crates.io/crates/binance-agents-ai)            | [![Docs.rs](https://docs.rs/binance-agents-ai/badge.svg)](https://docs.rs/binance-agents-ai)                    |
-| `binance-agents-trader` | Autonomous trading logic and risk management             | [![crates](https://img.shields.io/crates/v/binance-agents-trader?color=blue)](https://crates.io/crates/binance-agents-trader)    | [![Docs.rs](https://docs.rs/binance-agents-trader/badge.svg)](https://docs.rs/binance-agents-trader)            |
-| `@binance-agents/sdk`   | TypeScript SDK for creating and managing agents          | [![npm](https://img.shields.io/npm/v/@binance-agents/sdk.svg?color=blue)](https://www.npmjs.com/package/@binance-agents/sdk)     | [![Docs](https://img.shields.io/badge/docs-typedoc-blue)](https://binance-agents.github.io/binance-agents/ts/) |
-| `@binance-agents/cli`   | CLI for deploying and managing CZ personas               | [![npm](https://img.shields.io/npm/v/@binance-agents/cli.svg?color=blue)](https://www.npmjs.com/package/@binance-agents/cli)     | [![Docs](https://img.shields.io/badge/docs-typedoc-blue)](https://binance-agents.github.io/binance-agents/cli/)|
-
 ## Note
 
 - **Binance Agents is in active development, so all APIs are subject to change.**
