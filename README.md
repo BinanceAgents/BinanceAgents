@@ -6,11 +6,6 @@
     <strong>Create and Deploy AI-Powered CZ Personas on BNB Chain</strong>
   </p>
 
-  <p>
-    <a href="https://binance-agents.com"><img alt="Tutorials" src="https://img.shields.io/badge/docs-tutorials-blueviolet" /></a>
-    <a href="https://discord.gg/binance-agents"><img alt="Discord Chat" src="https://img.shields.io/discord/889577356681945098?color=blueviolet" /></a>
-    <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/github/license/binance-agents/binance-agents?color=blueviolet" /></a>
-  </p>
 </div>
 
 ## The Vision
