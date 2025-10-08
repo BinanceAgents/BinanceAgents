@@ -1,7 +1,6 @@
 <div align="center">
-  <img height="170x" src=https://avatars.githubusercontent.com/u/188250378?s=400&u=92fa31955e18c13083a48f86645be4784d5b7471&v=4/>
 
-  <h1>Build On Binance</h1>
+  <h1>Binance Agents</h1>
 
   <p>
     <strong>Unified Multi-Chain Program Framework for BNB Chain Ecosystem</strong>
