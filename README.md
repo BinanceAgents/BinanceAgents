@@ -42,9 +42,4 @@ Ensure the following are installed:
 - **pip** (Python package manager)
 - **Node.js** *(optional, for the web dashboard)*
 
-### Step 1: Clone the Repository
-
-```bash
-git clone https://github.com/binance-agents/platform.git
-cd platform
-
+### Visit the developing.md file for installation instructions
