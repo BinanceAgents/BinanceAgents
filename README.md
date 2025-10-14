@@ -10,7 +10,7 @@
 
 ## The Vision
 
-Binance Agents brings the wisdom and vision of CZ to life through AI-powered personas that live on BNB Chain. Create autonomous agents that embody CZ's philosophy, trading strategies, and decision-making principles. Deploy them across BNB Smart Chain, opBNB, and the entire BNB ecosystem with a single, unified framework.
+Binance Agents brings the wisdom and vision of CZ to life through AI-powered personas that live on BNB Chain. Create autonomous agents that embody CZ's philosophy, trading strategies, and decision-making principles. Deploy them across BNB Smart Chain, opBNB, and the entire BNB ecosystem with a single, unified framework.  
 
 ## What is Binance Agents?
 
